@@ -1,4 +1,4 @@
-<?php
+f<?php
 
 $host = "localhost";
 $usuario = "root";
